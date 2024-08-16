@@ -24,7 +24,7 @@ const About = () => {
                 Portfolio
               </a>
               <a
-                href="https://github.com/Abhayhubgit/contestTrackFinal"
+                href="https://www.linkedin.com/in/abhay-nayak-02aa4822a"
                 className="btn btn-outline-info px-4 btn-sm"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -47,7 +47,7 @@ const About = () => {
               <h5 className="card-title">Contest Mania</h5>
               <p className="card-text">It is plaform for enhacing your competitive coding skills</p>
               <a
-                href="https://github.com/Surya1231/ContestMania"
+                href="https://github.com/Abhayhubgit/contestTrackFinal"
                 className="btn btn-outline-info px-4 btn-sm"
                 target="_blank"
                 rel="noopener noreferrer"
